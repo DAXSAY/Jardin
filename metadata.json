@@ -1,0 +1,6 @@
+{
+  "name": "Gan Alon - Kindergarten & Nursery Israel",
+  "description": "Jardín de niños en Israel con enfoque en naturaleza, huerto y pedagogía activa. Información, horarios, equipo docente, matrículas online y panel de administración trilingüe (Español, Hebreo, Inglés).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
